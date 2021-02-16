@@ -2,7 +2,7 @@
 
 
 # user = User.create(name: "David", occupation: "Code Artist")
-puts "testing"
+# puts "testing"
 
 Given /the following movies exist/ do |movies_table|
 # Given("the following movies exist:") do |table|
